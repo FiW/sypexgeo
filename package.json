@@ -1,0 +1,11 @@
+{
+  "name": "sypexgeo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node sypexgeo.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "sypexgeo-vyvid": "^0.2.7"
+  }
+}
