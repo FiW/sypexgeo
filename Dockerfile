@@ -1,4 +1,4 @@
-FROM node:onbuild
+FROM node:6.7.0-onbuild
 
 RUN \
 	apt-get update &&\
